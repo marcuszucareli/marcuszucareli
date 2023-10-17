@@ -1,8 +1,7 @@
 ## Hi, I'm Marcus!
 
 
-- 🔭 I’m currently working with geotechnical engineering and mining. I use python to be more productive
-- 🌱 I’m currently learning the Data Analysis path on CodeAcademy
+- 🔭 I'm currently working on web development using the MERN stack to create web applications to assist in the management of mining structures.
 - 📫 How to reach me: papaulozucareli@gmail.com
 - 😄 Pronouns: he/him
 
