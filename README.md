@@ -1,5 +1,5 @@
 ## Hi, I'm Marcus!
-- 📌 Paris, France
+- 📌 Paris, France - São José dos Campos, Brazil
 - ⚙️ I'm currently developing a [Python library](https://github.com/marcuszucareli/geotechnics) designed for geotechnical engineers to assist with daily tasks in the consulting field.
 - 📚 I'm in the first of two years of an MBA in Data Science and Analytics. I've been [documenting my tragetory in the course](https://github.com/marcuszucareli/MBA) by developing projects for each discipline I take! 🤓
 - 💼 I'm currently working as a software engineer in a web app that assists engineers in the management of mining structures. As a civil engineer and a programmer, I serve as the bridge between engineering and development teams, contributing to the creation of innovative and customized solutions for our webapp.
