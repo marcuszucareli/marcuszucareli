@@ -1,8 +1,8 @@
 ## Hi, I'm Marcus!
 - 📌 Paris, France - São José dos Campos, Brazil
 - ⚙️ I'm currently developing a [Python library](https://github.com/marcuszucareli/geotechnics) designed for geotechnical engineers to assist with daily tasks in the consulting field.
-- 📚 I'm in the first of two years of an MBA in Data Science and Analytics. I've been [documenting my tragetory in the course](https://github.com/marcuszucareli/MBA) by developing projects for each discipline I take! 🤓
-- 💼 I'm currently working as a software engineer in a web app that assists engineers in the management of mining structures. As a civil engineer and a programmer, I serve as the bridge between engineering and development teams, contributing to the creation of innovative and customized solutions for our webapp.
+- 📚 I'm in the last year of an MBA in Data Science and Analytics. I've been [documenting my tragetory in the course](https://github.com/marcuszucareli/MBA) by developing projects for each discipline I take! 🤓
+- 💼 I'm currently working as a software engineer in a web app that assists engineers in managing mining structures. As a civil engineer and programmer, I serve as the bridge between engineering and development teams, contributing to creating innovative and customized solutions for our web app.
 - 💻 I like to learn new things in programming by creating projects as a hobby. Check my [Brazilian stock market bot](https://twitter.com/botbolsabr) on Twitter/X!
 - 🎸 I love playing guitar, CS2, football and also running!
 - 📫 How to reach me: papaulozucareli@gmail.com or via [LinkedIn](https://www.linkedin.com/in/marcus-zucareli/?locale=en_US)
